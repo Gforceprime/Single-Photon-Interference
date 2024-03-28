@@ -1,4 +1,4 @@
-***Important note: For full break down, please see the word Doc tittled Readme in the file"
+***Important note: For full break down, please see the word Doc tittled Readme in the file"***
 
 Disclaimer
 ***From spring 2020 to fall 2021, UNT implemented a virtual classroom approach, due to the pandemic. During this time, I took Modern Physics Laboratory (PHYS 3030) in spring 2021. Before I continue, I must say I have gained permission from the UNT Department of Physics to use the data that was given to us, my original lab report, and my code.***
