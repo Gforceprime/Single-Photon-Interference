@@ -3,6 +3,7 @@
 
 1	Introduction
 In this section, I will be:
+
 •	Giving a disclaimer as I was granted permission to use data provided from a university and my old work from classes.
 •	Discussing the inspiration behind the project and the experiment.
 •	Discussing and detailing the purpose of this of the project and its results
@@ -11,10 +12,13 @@ In this section, I will be:
 •	What is needed to run the code for this project
 •	The intended usage of this project
 •	The limitations of this project
+
 1.1	Disclaimer
 ***From spring 2020 to fall 2021, UNT implemented a virtual classroom approach, due to the pandemic. During this time, I took Modern Physics Laboratory (PHYS 3030) in spring 2021. Before I continue, I must say I have gained permission from the UNT Department of Physics to use the data that was given to us, my original lab report, and my code.***
+
 1.2	Inspiration
 One of most major breakthroughs in science in the early 20th century regards proving that a photon could act like a particle. Prior to this experiment, physics was still ruled by a Newtonian view that light is a wave. This experiment showed that light can behave like a particle as when it is filtered through tiny slits, the interference will cause the count for the photons in a region, similar to how a particle behaves.
+
 1.3	Purpose of this project
 The purpose of the application is to analyze experimentally generated data to demonstrate that light can behave like a particle as well as a wave. The application demonstrates the use of several Python packages to create data visualizations that graph the count (or intensity) of photons at each index vs the position along the back film opposite of a slit(s). Those results will then be processed to graph the distances between peaks (gained from the first graph) and the principal index and the distances between the peaks. The result of this is a linear graph with a slope equal to that of the wavelength of the photons shot through the slit(s).
 1.4	Contents of this project
